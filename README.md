@@ -5,5 +5,5 @@
 para rodar em sua maquina voce deve ter instalado.
 
 ```
-npm install react
+node app.js
 ```
