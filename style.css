@@ -1,4 +1,8 @@
-body {
+body{
+    background: linear-gradient(45deg, #0000007d, #0000008c)
+}
+
+header , main ,footer {
     letter-spacing: 20px;
     padding: 30px;
     display: flex;
@@ -6,7 +10,7 @@ body {
     justify-content: center;
 }
 
-h1 {
+.conteudo {
     font-family: cursive;
     padding: 0 0 0 20px;
     text-transform: uppercase;
